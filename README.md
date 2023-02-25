@@ -5,7 +5,7 @@
 
 ---
 - [注册chat-gpt的简明教程](https://696988.xyz/post/22)
-
+- [慢讯-花旗和高盛两家银行已限制员工使用ChatGPT。](https://696988.xyz/post/33)
 - [解决访问chatgpt显示access denid 的几种思路](https://696988.xyz/post/32)
 
 - [一个新的ai搜索引擎-neeva](https://696988.xyz/post/31)
