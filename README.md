@@ -4,6 +4,12 @@
 [阿明的小博客 分享你想要的一切！](https://696988.xyz/)
 
 ---
+- [另一项流行的谷歌服务的“葬礼”日期已为人所知](https://696988.xyz/post/37)
+
+- [Windows 11在小米Pad 5上全面启动](https://696988.xyz/post/36)
+- [美光开始销售 1.5TB microSD 卡，价格令人震惊](https://696988.xyz/post/35)
+- [微软教 ChatGPT 控制机器人和无人机](https://696988.xyz/post/34)
+
 - [注册chat-gpt的简明教程](https://696988.xyz/post/22)
 - [慢讯-花旗和高盛两家银行已限制员工使用ChatGPT。](https://696988.xyz/post/33)
 - [解决访问chatgpt显示access denid 的几种思路](https://696988.xyz/post/32)
